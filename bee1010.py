@@ -1,6 +1,5 @@
 #bee1010
 
-
 entrada1 = input().split()
 A1 = int(entrada1[0])
 B1 = int(entrada1[1])
