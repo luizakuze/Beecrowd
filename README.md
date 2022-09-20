@@ -1,3 +1,3 @@
 ## Beecrowd
 
-Exercícios de programação da **plataforma Beecrowd** feitos para estudo.
+Exercícios de programação da **plataforma Beecrowd** para estudo.
