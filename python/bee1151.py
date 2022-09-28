@@ -2,9 +2,6 @@
 Esse programa imprime a sequência de Fibonacci. 
 SENDO QUE: N(0<N<46)
 N = número de impressões númericas
-
-Autor: Luiza
-Data: 21/07/22
 '''
 
 N = int(input())
