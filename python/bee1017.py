@@ -1,5 +1,3 @@
-#bee1017
-
 T = int(input())
 D = int(input())
 
