@@ -1,6 +1,3 @@
-#bee1157
-
-
 N = int(input())
 
 
