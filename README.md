@@ -1,4 +1,4 @@
-## Beecrowd ✨🐝
+## Beecrowd 🐝🐝
 
 Exercícios de programação da **plataforma Beecrowd** em C e Python. 📚
 
