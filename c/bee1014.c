@@ -2,7 +2,7 @@
 
 int main() {
     int X;
-    float Y, consumo;
+    float Y;
 
     scanf("%d", &X);
     scanf("%f", &Y);
