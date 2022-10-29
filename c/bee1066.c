@@ -19,7 +19,7 @@ int main()
             neg++;
     }
 
-	printf("%d valor(es) par(es)\n%d valor(es) impar(es)\n%d valor(es) positivo(s)\n%d valor(es) negativo(s)\n",par,imp,pos,neg);	
+    printf("%d valor(es) par(es)\n%d valor(es) impar(es)\n%d valor(es) positivo(s)\n%d valor(es) negativo(s)\n",par,imp,pos,neg);	
 
     return 0;
 }
