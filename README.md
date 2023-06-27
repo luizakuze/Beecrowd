@@ -1,5 +1,6 @@
 ## Beecrowd 🐝🐝
 
-Exercícios de programação da **plataforma Beecrowd**. 📚
+In this repository, you will find the solutions to some programming exercises from the Beecrowd platform. 📚
 
-Perfil: [link_perfil_beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397)
+
+**Beecrowd profile:** [link_perfil_beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397)
