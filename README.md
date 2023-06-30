@@ -1,11 +1,7 @@
 ## Beecrowd 🐝🐝
 
-### I hope you find the solutions to the beecrowd problems you are maybe looking for! ❤
+### Espero que você encontre as soluções para os problemas do Beecrowd que você talvez esteja procurando! ❤
 
-#### Attention, the codes have comments in Brazilian Portuguese (pt-br). 
+Neste repositório, você encontrará as soluções para alguns exercícios de programação da plataforma Beecrowd. 📚
 
-In this repository, you will find the solutions to some programming exercises from the Beecrowd platform. 📚
-
-
-**Beecrowd profile:** [profile](https://www.beecrowd.com.br/judge/pt/profile/667397)
-
+**Perfil Beecrowd:** [profile](https://www.beecrowd.com.br/judge/pt/profile/667397)
