@@ -1,4 +1,4 @@
-## Beecrowd - Exercícios de Programação 🐝🐝
+## Beecrowd - Exercícios de Programação 🐝
 
 Neste repositório, você encontrará as soluções para alguns exercícios de programação da plataforma Beecrowd. 📚
 
